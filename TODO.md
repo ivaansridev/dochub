@@ -1,0 +1,15 @@
+# Sundays, 9 August 2026
+- [x] Make the main screen as:
+- A simple chat interface with bottom messege bar
+- At the top, text written "DocHub" and search icon at the right and hamburger menu at the left
+- [x] Make the Dark mode adaptive to system
+- [x] Make attachment button on the right side of the messege bar
+- [x] Save content to storage
+- [x] Make the send button a voice icon if there is no text on the text box
+- [x] Make the cursor stay on the text box after sending
+- [x] Make attachments icon open a menu with Document, Photo, "Location (Beta)"
+- [x] Make the hamburger menu open a side menu with options:
+- Backup/Restore (WIP)
+- Settings
+- [x] Make a simple settings page with some options
+- [x] Make search work by indexing
